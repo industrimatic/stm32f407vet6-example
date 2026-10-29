@@ -1,0 +1,4 @@
+D:/projects/STM32/init/Core/Src/main.c:66:1:__io_putchar	16	static
+D:/projects/STM32/init/Core/Src/main.c:79:5:main	16	static
+D:/projects/STM32/init/Core/Src/main.c:132:6:SystemClock_Config	88	static
+D:/projects/STM32/init/Core/Src/main.c:180:6:Error_Handler	4	static
